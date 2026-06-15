@@ -22,4 +22,4 @@ This helps in identifying high-value and low-value customer groups. :contentRefe
 ## 📂 Dataset
 
 Full dataset (44MB) available here:
-[Download Online Retail Dataset](https://colab.research.google.com/drive/1psbVL3gcNWX_ZG1WNz8xeKrbMlvpQoqv?usp=drive_link)
+[Download Online Retail Dataset](https://drive.google.com/file/d/1QM17ffVaFOvinIH_3hmslr-GPH2ofsOT/view?usp=sharing)
