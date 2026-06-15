@@ -18,3 +18,8 @@ This helps in identifying high-value and low-value customer groups. :contentRefe
 - Matplotlib  
 - Scikit-learn
 
+
+## 📂 Dataset
+
+Full dataset (44MB) available here:
+[Download Online Retail Dataset](https://colab.research.google.com/drive/1psbVL3gcNWX_ZG1WNz8xeKrbMlvpQoqv?usp=drive_link)
