@@ -50,15 +50,12 @@ Using these three metrics, the project splits 4,338 customers into four behaviou
 | New / Low-Spend | 837 | 19.3% | 18 | 2.2 | 557 | 5.2% |
 | Lost / Churned | 1,622 | 37.4% | 182 | 1.3 | 341 | 6.2% |
 
-![Share of customers and revenue by segment](<img width="1634" height="555" alt="segment_share" src="https://github.com/user-attachments/assets/ed95955c-6fe3-4638-8460-f6c8fe480d3c" />
-)
+![Share of customers and revenue by segment](cleaning%20log/segment_share.png)
 
-![RFM boxplots by segment](<img width="2380" height="704" alt="rfm_boxplots" src="https://github.com/user-attachments/assets/94450633-ab75-452b-8b0f-c0d585ae7df4" />
-)
+![RFM boxplots by segment](cleaning%20log/rfm_boxplots.png)
 *Boxplots use a log scale for Frequency and Monetary because of heavy outliers.*
 
-![Elbow and silhouette](<img width="1634" height="585" alt="elbow_silhouette" src="https://github.com/user-attachments/assets/d905cb33-8678-418b-9969-0cc31ae05cc1" />
-)
+![Elbow and silhouette](cleaning%20log/elbow_silhouette.png)
 
 ## Key Insights
 - **Revenue is concentrated:** the top 20% of customers generate 74.7% of revenue, and the 16.4% of customers in the Champions segment generate 64.9%.
